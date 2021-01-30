@@ -54,3 +54,21 @@
 .footer-description {
   padding: 25px;
 }
+
+@media only screen and (max-width: 768px) {
+.services {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 1rem;
+}
+
+  .testimonial {
+    margin-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+ .footer {
+   text-align: center;
+ }
+}

@@ -7,9 +7,8 @@ function Home(props){
         <div class="container">
         <div class="hero-image">
             <div class="hero-text">
-                <h1 style="font-size:50px">I am John Doe</h1>
-                <p>And I'm a Photographer</p>
-                <button>Hire me</button>
+                <h1>Welcome To Lakshi Priya Associates</h1>
+                <button>Contact Us</button>
             </div>
         </div>
         <div class="Cities row">
